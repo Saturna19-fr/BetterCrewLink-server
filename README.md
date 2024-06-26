@@ -1,6 +1,12 @@
 > [!NOTE]
 > This fork is not intended for use by others as it contains personal (non-sensitive) files, such as a picture of a friend from when they were younger, as well as minor modifications to the website/backend.
 
+> [!IMPORTANT]
+> Here is the link: https://marie.saturna19.fr
+> Keep in mind that it's a **French** 🇫🇷 server hosted near Paris.
+> It drastically reduces the latency between the server and the client, allowing you to play with near-zero latency.
+
+I give full credit to the owner of the forked repository.
 
 [![GPL-3.0 License][license-shield]][license-url] [![Docker Pulls][docker-shield]][docker-url] [![Run on Repl.it][replit-shield]][replit-url] [![Discord Server][discord-shield]][discord-url] [![Contributors][contributors-shield]][contributors-url]
 
